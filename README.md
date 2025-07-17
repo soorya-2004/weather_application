@@ -34,3 +34,5 @@ Overall, this task offers a real-world, user-focused project, combining technica
 
 # OUTPUT
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8f8c648e-2fa2-4fbc-9f3b-f5c0af68608b" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/08f0d9f9-e6bb-41ce-95e7-06b59b914dd8" />
